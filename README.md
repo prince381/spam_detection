@@ -1,5 +1,7 @@
 # SMS Spam Detection
 This [Github](https://github.com/prince381/spam_detection) repository contains the files and other resources for my machine learning project which entails training a text classification model to detect spam messages. The code associated with this project is written in python programming language in a jupyter notebook with the file extension '.ipynb' .
+### Project completed by: Prince Owusu
+[Email](powusu381@gmail.com) || [linkedIn](https://www.linkedin.com/in/prince-owusu-356914198?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B2NYoXqMHQKOMp0yWSME5mQ%3D%3D) || [Twitter](https://twitter.com/iam_kwekhu)
 
 ## Text Classification
 Text classification is one of the most important task in Natural Language Processing. It is the process of classifying text strings or
